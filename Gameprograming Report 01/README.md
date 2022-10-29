@@ -1,7 +1,7 @@
 ## GamePrograming Report
 ### CSS Framework
 
-> [Bulma](https://bulma.io/ , "bulma link") | [Bootstrap](https://getbootstrap.com/ , "bootstrap link") | [Materialize](https://materializecss.com/ , "materialize link")
+> [Bulma](https://bulma.io/) | [Bootstrap](https://getbootstrap.com/ , "bootstrap link") | [Materialize](https://materializecss.com/ , "materialize link")
    
 * Materialize의 [Truncation](https://materializecss.com/helpers.html , "truncation link")
 ```
