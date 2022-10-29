@@ -1,9 +1,9 @@
 ## GamePrograming Report
 ### CSS Framework
 
-> [Bulma](https://bulma.io/, "bulma link") | [Bootstrap](https://getbootstrap.com/, "bootstrap link") | [Materialize](https://materializecss.com/, "materialize link")
+> [Bulma](https://bulma.io/ , "bulma link") | [Bootstrap](https://getbootstrap.com/ , "bootstrap link") | [Materialize](https://materializecss.com/ , "materialize link")
    
-* Materialize의 [Truncation](https://materializecss.com/helpers.html, "truncation link")
+* Materialize의 [Truncation](https://materializecss.com/helpers.html , "truncation link")
 ```
 <!-- materialize truncation -->
         <div class="valign-wrapper">
@@ -11,7 +11,7 @@
         </div>
 ```
    
-* Bulma의 [Message](https://bulma.io/documentation/components/message/, "message link")
+* Bulma의 [Message](https://bulma.io/documentation/components/message/ , "message link")
 ```
 <!-- bulma message -->
             <article class="message is-primary">
@@ -24,7 +24,7 @@
                 </div>
             </article>
 ```
-* Bootstrap의 [List Group](https://getbootstrap.com/docs/5.2/components/list-group/, "listgroup link")
+* Bootstrap의 [List Group](https://getbootstrap.com/docs/5.2/components/list-group/ , "listgroup link")
 ```
 <!-- bootstrap list group -->
             <h2>Contact</h2>
@@ -43,4 +43,4 @@
                     </li>
             </ul>
 ```
-> github.io와 netify 배포주소 [kimjaegwan0218.github.io](https://kimjaegwan0218.github.io/, "github.io link") & [netify](https://gameprogramingreport.netlify.app/, "netify link")
+> github.io와 netify 배포주소 [kimjaegwan0218.github.io](https://kimjaegwan0218.github.io/ , "github.io link") & [netify](https://gameprogramingreport.netlify.app/ , "netify link")
